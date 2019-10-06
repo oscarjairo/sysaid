@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+perubus.sysaidit.com	TRUE	/	FALSE	1999999999	JSESSIONID	inst06us-app03-3061~3D09A23FD0857880BA51B1E9A733707E.inst06us-app03-3061
+perubus.sysaidit.com	TRUE	/	FALSE	1999999999	accountId	perubus
+
